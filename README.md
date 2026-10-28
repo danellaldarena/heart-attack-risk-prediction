@@ -3,11 +3,6 @@
 ## Overview
 This project is part of the Final Project for Data Mining A. It aims to analyze health-related factors and develop classification models to predict heart disease risk.
 
-## Team Members
-- Danella Citra Aldarena (5003231003)
-- Maria Immaculata Dyah Hita Widowati (5003231027)
-- Ruth Wahyu Sedjati Priyambodo (5003231129)
-
 ## Dataset
 The dataset was obtained from Kaggle:
 
